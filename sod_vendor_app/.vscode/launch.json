@@ -1,0 +1,30 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter: main_appvietsob_vendor.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "program": "lib/main_appvietsob_vendor.dart",
+      "args": [
+        "--flavor",
+        "appvietsob_vendor",
+      ]
+    },
+    {
+      "name": "Flutter: main_sod_vendor.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "program": "lib/main_sod_vendor.dart",
+      "args": [
+        "--flavor",
+        "sod_vendor",
+      ]
+    },
+  ]
+}

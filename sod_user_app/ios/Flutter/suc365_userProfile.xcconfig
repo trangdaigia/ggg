@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_suc365_user.dart
+ASSET_PREFIX=suc365_user
+BUNDLE_NAME=SUC365 User
+BUNDLE_DISPLAY_NAME=SUC365 User

@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "836352470923",
+    "project_id": "vasone-8e6f2",
+    "storage_bucket": "vasone-8e6f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836352470923:android:cb5bfeeb60a8756523498e",
+        "android_client_info": {
+          "package_name": "vasone.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlUb2hD7zpGWepk5jWgHzesf28yn-fTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836352470923-c0mn5lre54s7u1ib78fqgcsgqkpaocfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vasone.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836352470923:android:3384e2530b7ad18723498e",
+        "android_client_info": {
+          "package_name": "vasone_driver.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlUb2hD7zpGWepk5jWgHzesf28yn-fTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836352470923-c0mn5lre54s7u1ib78fqgcsgqkpaocfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vasone.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836352470923:android:103b9a194b9cbdc123498e",
+        "android_client_info": {
+          "package_name": "vasone_vendor.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlUb2hD7zpGWepk5jWgHzesf28yn-fTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836352470923-0mqnqhmvd6k07o3j7r4k38t3ij2m1nje.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836352470923-c0mn5lre54s7u1ib78fqgcsgqkpaocfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vasone.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

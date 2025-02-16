@@ -1,0 +1,482 @@
+{
+  "project_info": {
+    "project_number": "68407877162",
+    "project_id": "g47taxi-393507",
+    "storage_bucket": "g47taxi-393507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:50e3fb7bf6e06d1db1ad53",
+        "android_client_info": {
+          "package_name": "g47cuahang.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-3fhg3a03duof2pv15tkkinokp9f21cs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "093975c6dcef7de3425c96758fe24023a0c6127f"
+          }
+        },
+        {
+          "client_id": "68407877162-63oh0udltcp6pf8qk35b5c3br3lkcnds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "38a3e89a64b9f3ffe0532b5767ce84d617a3402d"
+          }
+        },
+        {
+          "client_id": "68407877162-65uu68n3dgc1o8r20avllksu8goi9ce5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "f0520dea0cead1ca8f66e5f3e94ee1e3917dc8ae"
+          }
+        },
+        {
+          "client_id": "68407877162-iu2db1a3knepvq92j4elmr34ogkhbtm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "703011596924709f5845417ce13caeef62ddea33"
+          }
+        },
+        {
+          "client_id": "68407877162-nbiipcls302vgfq37ukfq72ge6bktcj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "4fb33ce54df39b685c81a3dc80e024f8607c2a4a"
+          }
+        },
+        {
+          "client_id": "68407877162-ngfc5i8b4v9llm8p97m6is0572rprjts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47cuahang.di4l.vn",
+            "certificate_hash": "22c211e28a5a857144b711e23e8aca596443b770"
+          }
+        },
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:9e5c1eec2dd22ffcb1ad53",
+        "android_client_info": {
+          "package_name": "g47drive.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-5hpf530kpgu8o6hvvkg0b9ier869tdj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "4fb33ce54df39b685c81a3dc80e024f8607c2a4a"
+          }
+        },
+        {
+          "client_id": "68407877162-87gt11gpvmg5jurccqsp91h0p256dac7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "703011596924709f5845417ce13caeef62ddea33"
+          }
+        },
+        {
+          "client_id": "68407877162-m74g9hcht3900kmdcq93evuvrs5irsmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "38a3e89a64b9f3ffe0532b5767ce84d617a3402d"
+          }
+        },
+        {
+          "client_id": "68407877162-no60348q2p7ch07abh4348ffl6ookokp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "22c211e28a5a857144b711e23e8aca596443b770"
+          }
+        },
+        {
+          "client_id": "68407877162-q0poebrooccajif6op8mgu4ft5pkuhf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "f0520dea0cead1ca8f66e5f3e94ee1e3917dc8ae"
+          }
+        },
+        {
+          "client_id": "68407877162-recid9o8bp3vqj264idefv68u6c8daqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47drive.di4l.vn",
+            "certificate_hash": "093975c6dcef7de3425c96758fe24023a0c6127f"
+          }
+        },
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:7e753506b258c35ab1ad53",
+        "android_client_info": {
+          "package_name": "g47drivev2.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:8f83d9df5cc12c47b1ad53",
+        "android_client_info": {
+          "package_name": "g47nguoidung.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-0i67a8sc6u063g44ob60br9rfqtq8un5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47nguoidung.di4l.vn",
+            "certificate_hash": "703011596924709f5845417ce13caeef62ddea33"
+          }
+        },
+        {
+          "client_id": "68407877162-4rli62l1i0psajs18gqo1lrfpcu32tk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47nguoidung.di4l.vn",
+            "certificate_hash": "22c211e28a5a857144b711e23e8aca596443b770"
+          }
+        },
+        {
+          "client_id": "68407877162-uu4i2seh3hhflln8ijpvucn6g8fvvghe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47nguoidung.di4l.vn",
+            "certificate_hash": "f0520dea0cead1ca8f66e5f3e94ee1e3917dc8ae"
+          }
+        },
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:f67417341d240cbdb1ad53",
+        "android_client_info": {
+          "package_name": "g47user.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-9lfva3370rdhtm4bdvvnqr38f9dicsc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "38a3e89a64b9f3ffe0532b5767ce84d617a3402d"
+          }
+        },
+        {
+          "client_id": "68407877162-brqidvkjem8au82pq4ia1l37ibp7h2ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "f0520dea0cead1ca8f66e5f3e94ee1e3917dc8ae"
+          }
+        },
+        {
+          "client_id": "68407877162-f6p9qvk25rjanb1fkuu7rvf485ce75mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "093975c6dcef7de3425c96758fe24023a0c6127f"
+          }
+        },
+        {
+          "client_id": "68407877162-r562gqjna7n6vcn4lkcqeic6001ost5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "703011596924709f5845417ce13caeef62ddea33"
+          }
+        },
+        {
+          "client_id": "68407877162-s5ejmtf0gtt7j94rt9n1uermhanc3m2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "22c211e28a5a857144b711e23e8aca596443b770"
+          }
+        },
+        {
+          "client_id": "68407877162-sfgg22tu3qs31r7jhhjukvcmhqel8bnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "48fe0503adbc79c8fd5f184e76f53fec6cf45df5"
+          }
+        },
+        {
+          "client_id": "68407877162-vheabbt4d0ibq0tcvm7aklj1jsa8ief3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47user.di4l.vn",
+            "certificate_hash": "4fb33ce54df39b685c81a3dc80e024f8607c2a4a"
+          }
+        },
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:6d8d9501f02b8069b1ad53",
+        "android_client_info": {
+          "package_name": "g47userv2.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:44f54141f0ae1e5db1ad53",
+        "android_client_info": {
+          "package_name": "g47vendor.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-0p0h61bikm3d608m3rr9i6dt2iib11c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g47vendor.di4l.vn",
+            "certificate_hash": "093975c6dcef7de3425c96758fe24023a0c6127f"
+          }
+        },
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68407877162:android:2939b0007266c8eab1ad53",
+        "android_client_info": {
+          "package_name": "g47vendorv2.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68407877162-v5npag0j71uij4e6n32qv6rgikv42pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZAuX7OpFZZrjLSbf1x-oJM-_GLszzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68407877162-tapf2qd94aue5p9fe61rnnakqirni3rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68407877162-2in583erbc2n47hboc8d1m3n48ff08c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G47Drive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

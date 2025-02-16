@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>770928349127-m7vbi45j40vtgfti5bnsts1hvg51ska8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.770928349127-m7vbi45j40vtgfti5bnsts1hvg51ska8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>770928349127-i8249ibtbepgg2o5vkav99i4cpkr92c9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI6B-_CUafvHQFMRzmdsU9RDSd-jrJhf0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>770928349127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>goxanhdriver.shipxanh247.com.ios</string>
+	<key>PROJECT_ID</key>
+	<string>shipxanh-e0944</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shipxanh-e0944.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:770928349127:ios:93e6ec19f56d678686d3e2</string>
+</dict>
+</plist>

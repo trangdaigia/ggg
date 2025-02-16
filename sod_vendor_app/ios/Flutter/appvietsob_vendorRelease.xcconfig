@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_appvietsob_vendor.dart
+ASSET_PREFIX=appvietsob_vendor
+BUNDLE_NAME=Áp Việt Admin
+BUNDLE_DISPLAY_NAME=VietApp Cửa Hàng

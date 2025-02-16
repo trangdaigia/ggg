@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_vasone_vendor.dart
+ASSET_PREFIX=vasone_vendor
+BUNDLE_NAME=Vasone Vendor
+BUNDLE_DISPLAY_NAME=Vasone Vendor

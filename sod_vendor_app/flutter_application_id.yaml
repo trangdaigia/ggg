@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "sod_vendor.di4l.vn"
+    name: "Sod vendor"
+  ios:
+    id: "sod_vendor.di4l.vn"
+    name: "Sod vendor"

@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sod_vendor.dart
+ASSET_PREFIX=sod_vendor
+BUNDLE_NAME=SOD Vendor
+BUNDLE_DISPLAY_NAME=SOD Vendor

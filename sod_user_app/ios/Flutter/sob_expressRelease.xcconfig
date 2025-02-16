@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sob_express.dart
+ASSET_PREFIX=sob_express
+BUNDLE_NAME=SOB Express
+BUNDLE_DISPLAY_NAME=GoEco

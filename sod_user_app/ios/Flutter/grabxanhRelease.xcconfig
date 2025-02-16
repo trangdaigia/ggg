@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_grabxanh.dart
+ASSET_PREFIX=grabxanh
+BUNDLE_NAME=EcoSHIP
+BUNDLE_DISPLAY_NAME=EcoSHIP

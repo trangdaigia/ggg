@@ -1,0 +1,9 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  image: "assets/images/app_splash_icons/sob_express/icon.jpg"
+  color: "5e17eb"
+  remove_alpha_ios: true
+  fullscreen: true
+  android_gravity: center_vertical
+  ios_content_mode: scaleAspectFill

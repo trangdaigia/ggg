@@ -1,0 +1,3305 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		013A1454D8D063335BC3F741 /* sod_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 71ACFC50F0D6D4D0CD61B7B3 /* sod_vendorDebug.xcconfig */; };
+		06B489961601FFEFAF794AFA /* grabxanh_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D87C7E7C8ECDD2969845FBAD /* grabxanh_vendorLaunchScreen.storyboard */; };
+		0F717764AD2C508DF21B5792 /* sob_express_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = D46FBB7A54D6D06B3BA9D8B7 /* sob_express_vendorDebug.xcconfig */; };
+		14231E418CABAC5BF3596EC0 /* g47_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 2DE615BDD9A051FBD125FFA3 /* g47_vendorRelease.xcconfig */; };
+		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
+		212989F96D2FC7C7578525CE /* vasone_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9984142C888F04FE3070A051 /* vasone_vendorLaunchScreen.storyboard */; };
+		26BE281CEC30463A97AEEEEE /* appvietsob_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = E82B876588D6A464C50280F0 /* appvietsob_vendorProfile.xcconfig */; };
+		2932D1902AAD53552FB12582 /* g47_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 6DDF1DAD91F9868A0BF834B0 /* g47_vendorProfile.xcconfig */; };
+		356E34C13E3C5D7D6210B1FA /* g47_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A47203AC1071F72904ABE99D /* g47_vendorDebug.xcconfig */; };
+		35DC3EC150156A79FCD9FA4E /* sod_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 4B8F4A3BC62BFB4AF1F926BC /* sod_vendorProfile.xcconfig */; };
+		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
+		3C530C98D8932C58E0D4CE94 /* suc365_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3822370BF60F2EA2B872CE8C /* suc365_vendorDebug.xcconfig */; };
+		3EB2E2316C5D6466722533DA /* vasone_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = DE2413E8621D2BFA1F8DD0A7 /* vasone_vendorRelease.xcconfig */; };
+		49BF1B15261F237C00FF28A0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49BF1B14261F237C00FF28A0 /* GoogleService-Info.plist */; };
+		5675DAA6D2F9A12ADAB6B54B /* vasone_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A2ADFCF267B6D0D66E82A /* vasone_vendorProfile.xcconfig */; };
+		57F272792A7736525C951880 /* suc365_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 2074944F865819D9DB7FDAEB /* suc365_vendorRelease.xcconfig */; };
+		5C7C9E98C85311DE92AA6E0F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9C274166738D41F46681D3C5 /* GoogleService-Info.plist */; };
+		6173EC450F93B860C8538CB2 /* vasone_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 6CF30CA975D8DF192566973B /* vasone_vendorDebug.xcconfig */; };
+		646EB5451737D766110A0F27 /* fasthub_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = C1C88761D0D57F04E2EE3BEE /* fasthub_vendorRelease.xcconfig */; };
+		6612EFF4774838CA6011A8DA /* g47_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57B509655B6EDA093067D057 /* g47_vendorLaunchScreen.storyboard */; };
+		6E9112556B55D75065E03005 /* appvietsob_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 0C2DFA21C4412F57D1EA3CA1 /* appvietsob_vendorRelease.xcconfig */; };
+		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
+		75ADCDFA98942375820F13F8 /* fasthub_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A6C5C5F61CBCA4BCB45DEA0F /* fasthub_vendorDebug.xcconfig */; };
+		7B3AD86A43EB7DAEA06D7745 /* goingship_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = EE9661A33B544AF5DE63C14C /* goingship_vendorRelease.xcconfig */; };
+		7F84EB8AA818BC0F4A4CED50 /* appvietsob_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = EB178A9E86AD094D896F2848 /* appvietsob_vendorDebug.xcconfig */; };
+		82BFD38A32D45D94B2B1AB87 /* grabxanh_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 4FBD7880E7D229298BCD69FB /* grabxanh_vendorRelease.xcconfig */; };
+		8E862A5EC9D15912EB586177 /* sob_express_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC8DDC2F4E36742A968F6CB9 /* sob_express_vendorLaunchScreen.storyboard */; };
+		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
+		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
+		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
+		AD33D1EEEF5BC5AE09C33630 /* grabxanh_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 568761916D9A238800EF44D8 /* grabxanh_vendorDebug.xcconfig */; };
+		ADEE642C9646D913D7859137 /* goingship_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = B6882D098695B50D08D1B00F /* goingship_vendorProfile.xcconfig */; };
+		B265D4ED295B6A867F6FDD3F /* goingship_vendorDebug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = D302D29D01E94A88236E3F77 /* goingship_vendorDebug.xcconfig */; };
+		B61EB837285DE24300BF74A0 /* alert.aiff in Resources */ = {isa = PBXBuildFile; fileRef = B61EB835285DE24200BF74A0 /* alert.aiff */; };
+		B61EB838285DE24300BF74A0 /* alert_new.aiff in Resources */ = {isa = PBXBuildFile; fileRef = B61EB836285DE24200BF74A0 /* alert_new.aiff */; };
+		B9B2C6390AD4C1A116B8622F /* suc365_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = EB004D6D7FDA7889A64BCCAA /* suc365_vendorProfile.xcconfig */; };
+		C514C17E606056CD99FE58B6 /* sod_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 57ADBF11D4E24D5CD4E7812F /* sod_vendorRelease.xcconfig */; };
+		C61A02E44008DE7A79BAC3EA /* appvietsob_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55CC02A944D2D1FE03778C9A /* appvietsob_vendorLaunchScreen.storyboard */; };
+		C6F6F35FC1B95D0C710DE832 /* sod_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F378C91DCCD6C8C31AA9BA4B /* sod_vendorLaunchScreen.storyboard */; };
+		C8FA3A7094196AEB3924C4A5 /* suc365_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64C18CFD399C236634E42EB /* suc365_vendorLaunchScreen.storyboard */; };
+		DF45EF16323030EBCFB72D45 /* goingship_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6A730E051164883C67CBBCE /* goingship_vendorLaunchScreen.storyboard */; };
+		E6F925164A98B956D7C44D6C /* sob_express_vendorRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A86B4EC1B3C54A0C9786DBB1 /* sob_express_vendorRelease.xcconfig */; };
+		E9E29773031BB2241CE73E23 /* sob_express_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = E5788BCB187BBD1FE674AE9F /* sob_express_vendorProfile.xcconfig */; };
+		E9EDFBF2BBABFFC6F232C0F1 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D12A1B19B6B74FE4E0139371 /* Pods_Runner.framework */; };
+		F356D08300C85C0FB0E38508 /* grabxanh_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 86992349011CB22E5F179F3E /* grabxanh_vendorProfile.xcconfig */; };
+		F7B2E7CE41F6A1E1BC65516C /* fasthub_vendorLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89164287995C783E95C889C1 /* fasthub_vendorLaunchScreen.storyboard */; };
+		FF557A0A22E2B12D435D1948 /* fasthub_vendorProfile.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = CBD00164CC9EC1E7990DA8A7 /* fasthub_vendorProfile.xcconfig */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9705A1C41CF9048500538489 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		06F24A3D8211B269692250E5 /* Pods-Runner.release-sod_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-sod_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-sod_vendor.xcconfig"; sourceTree = "<group>"; };
+		089C39294D5D6A3084D6735F /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
+		0AD5EFDCE8765B234DBE2D19 /* Pods-Runner.profile-vasone_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-vasone_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-vasone_vendor.xcconfig"; sourceTree = "<group>"; };
+		0C2DFA21C4412F57D1EA3CA1 /* appvietsob_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = appvietsob_vendorRelease.xcconfig; path = Flutter/appvietsob_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		0D1992D3D96BC3B7146BE0A2 /* Pods-Runner.release-appvietsob_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-appvietsob_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-appvietsob_vendor.xcconfig"; sourceTree = "<group>"; };
+		1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
+		1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
+		1E0515CB2C9D5CB000769C92 /* RunnerProfile-goingship_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerProfile-goingship_vendor.entitlements"; sourceTree = "<group>"; };
+		1E0515CC2C9D5CBE00769C92 /* RunnerRelease-goingship_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerRelease-goingship_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C02C93660F00577792 /* RunnerDebug-sod_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-sod_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C12C93661500577792 /* RunnerProfile-sod_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerProfile-sod_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C22C93661A00577792 /* RunnerRelease-sod_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerRelease-sod_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C32C93661F00577792 /* RunnerDebug-sob_express_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-sob_express_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C42C93665B00577792 /* RunnerDebug-suc365_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-suc365_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C52C93667000577792 /* RunnerRelease-suc365_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerRelease-suc365_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C62C93667B00577792 /* RunnerDebug-g47_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-g47_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C72C93668500577792 /* RunnerDebug-appvietsob_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-appvietsob_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C82C93669800577792 /* RunnerDebug-fasthub_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-fasthub_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700C92C9366A200577792 /* RunnerDebug-vasone_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-vasone_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700CA2C9366AC00577792 /* RunnerDebug-goingship_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-goingship_vendor.entitlements"; sourceTree = "<group>"; };
+		1EC700CB2C9366BE00577792 /* RunnerDebug-grabxanh_vendor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "RunnerDebug-grabxanh_vendor.entitlements"; sourceTree = "<group>"; };
+		2074944F865819D9DB7FDAEB /* suc365_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = suc365_vendorRelease.xcconfig; path = Flutter/suc365_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		218D1A09C326F85015C5B330 /* Pods-Runner.profile-g47_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-g47_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-g47_vendor.xcconfig"; sourceTree = "<group>"; };
+		2DE615BDD9A051FBD125FFA3 /* g47_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = g47_vendorRelease.xcconfig; path = Flutter/g47_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		2E857D35BDE7A66EF1F6A50A /* Pods-Runner.debug-appvietsob_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-appvietsob_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-appvietsob_vendor.xcconfig"; sourceTree = "<group>"; };
+		3369BDBC193B30E946CD4AB4 /* Pods-Runner.debug-grabxanh_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-grabxanh_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-grabxanh_vendor.xcconfig"; sourceTree = "<group>"; };
+		3822370BF60F2EA2B872CE8C /* suc365_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = suc365_vendorDebug.xcconfig; path = Flutter/suc365_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = AppFrameworkInfo.plist; path = Flutter/AppFrameworkInfo.plist; sourceTree = "<group>"; };
+		3F3A2ADFCF267B6D0D66E82A /* vasone_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = vasone_vendorProfile.xcconfig; path = Flutter/vasone_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		3F967EE151416B8EE9CE1DDC /* Pods-Runner.release-g47_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-g47_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-g47_vendor.xcconfig"; sourceTree = "<group>"; };
+		49BF1B14261F237C00FF28A0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		49E921F125E68FEA00630B0D /* Runner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Runner.entitlements; sourceTree = "<group>"; };
+		49E921F225E6901400630B0D /* RunnerDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RunnerDebug.entitlements; sourceTree = "<group>"; };
+		4B8F4A3BC62BFB4AF1F926BC /* sod_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sod_vendorProfile.xcconfig; path = Flutter/sod_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		4BD5B4D15AFF3A8071B10846 /* Pods-Runner.debug-suc365_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-suc365_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-suc365_vendor.xcconfig"; sourceTree = "<group>"; };
+		4FBD7880E7D229298BCD69FB /* grabxanh_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = grabxanh_vendorRelease.xcconfig; path = Flutter/grabxanh_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		5042061CF1323E5B25FCEFB5 /* Pods-Runner.debug-g47_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-g47_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-g47_vendor.xcconfig"; sourceTree = "<group>"; };
+		55CC02A944D2D1FE03778C9A /* appvietsob_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = appvietsob_vendorLaunchScreen.storyboard; path = Runner/appvietsob_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		568761916D9A238800EF44D8 /* grabxanh_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = grabxanh_vendorDebug.xcconfig; path = Flutter/grabxanh_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		57ADBF11D4E24D5CD4E7812F /* sod_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sod_vendorRelease.xcconfig; path = Flutter/sod_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		57B509655B6EDA093067D057 /* g47_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = g47_vendorLaunchScreen.storyboard; path = Runner/g47_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		60B936FD58067FCC6C9FDC5A /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
+		6CF30CA975D8DF192566973B /* vasone_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = vasone_vendorDebug.xcconfig; path = Flutter/vasone_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		6DDF1DAD91F9868A0BF834B0 /* g47_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = g47_vendorProfile.xcconfig; path = Flutter/g47_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		71ACFC50F0D6D4D0CD61B7B3 /* sod_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sod_vendorDebug.xcconfig; path = Flutter/sod_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
+		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
+		856E8B4391A7495E2685F6F8 /* Pods-Runner.debug-vasone_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-vasone_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-vasone_vendor.xcconfig"; sourceTree = "<group>"; };
+		86992349011CB22E5F179F3E /* grabxanh_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = grabxanh_vendorProfile.xcconfig; path = Flutter/grabxanh_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		89164287995C783E95C889C1 /* fasthub_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = fasthub_vendorLaunchScreen.storyboard; path = Runner/fasthub_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
+		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
+		97C146EE1CF9000F007C117D /* Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97C146FB1CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		97C146FD1CF9000F007C117D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97C147001CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		97C147021CF9000F007C117D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9957FB74E7C6BFF9CDC09B85 /* Pods-Runner.debug-goingship_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-goingship_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-goingship_vendor.xcconfig"; sourceTree = "<group>"; };
+		9984142C888F04FE3070A051 /* vasone_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = vasone_vendorLaunchScreen.storyboard; path = Runner/vasone_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		9C274166738D41F46681D3C5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "Runner/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		9D624C172ED48F6FADF353F5 /* Pods-Runner.release-sob_express_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-sob_express_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-sob_express_vendor.xcconfig"; sourceTree = "<group>"; };
+		9F393C4EF4107417A038066A /* Pods-Runner.release-vasone_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-vasone_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-vasone_vendor.xcconfig"; sourceTree = "<group>"; };
+		A35B9F7FD982275BB2341E57 /* Pods-Runner.profile-grabxanh_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-grabxanh_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-grabxanh_vendor.xcconfig"; sourceTree = "<group>"; };
+		A47203AC1071F72904ABE99D /* g47_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = g47_vendorDebug.xcconfig; path = Flutter/g47_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		A64C18CFD399C236634E42EB /* suc365_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = suc365_vendorLaunchScreen.storyboard; path = Runner/suc365_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		A6C5C5F61CBCA4BCB45DEA0F /* fasthub_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = fasthub_vendorDebug.xcconfig; path = Flutter/fasthub_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		A86B4EC1B3C54A0C9786DBB1 /* sob_express_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sob_express_vendorRelease.xcconfig; path = Flutter/sob_express_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		B36DB4239E99B2FA8A329D88 /* Pods-Runner.release-fasthub_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-fasthub_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-fasthub_vendor.xcconfig"; sourceTree = "<group>"; };
+		B483844F6BA4C87EDDE272C9 /* Pods-Runner.profile-appvietsob_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-appvietsob_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-appvietsob_vendor.xcconfig"; sourceTree = "<group>"; };
+		B61EB835285DE24200BF74A0 /* alert.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = alert.aiff; sourceTree = "<group>"; };
+		B61EB836285DE24200BF74A0 /* alert_new.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = alert_new.aiff; sourceTree = "<group>"; };
+		B6882D098695B50D08D1B00F /* goingship_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = goingship_vendorProfile.xcconfig; path = Flutter/goingship_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		BC8DDC2F4E36742A968F6CB9 /* sob_express_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = sob_express_vendorLaunchScreen.storyboard; path = Runner/sob_express_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		C1C88761D0D57F04E2EE3BEE /* fasthub_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = fasthub_vendorRelease.xcconfig; path = Flutter/fasthub_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		C21ADE6A25EA2D7909BFEFED /* Pods-Runner.release-grabxanh_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-grabxanh_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-grabxanh_vendor.xcconfig"; sourceTree = "<group>"; };
+		C7AF2662CC0262306BC71CA7 /* Pods-Runner.debug-sod_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-sod_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-sod_vendor.xcconfig"; sourceTree = "<group>"; };
+		CBD00164CC9EC1E7990DA8A7 /* fasthub_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = fasthub_vendorProfile.xcconfig; path = Flutter/fasthub_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		D12A1B19B6B74FE4E0139371 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1D5CBB3FBDEC045947A2F55 /* Pods-Runner.release-goingship_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-goingship_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-goingship_vendor.xcconfig"; sourceTree = "<group>"; };
+		D2C039122DF0F5CC21368D37 /* Pods-Runner.profile-fasthub_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-fasthub_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-fasthub_vendor.xcconfig"; sourceTree = "<group>"; };
+		D302D29D01E94A88236E3F77 /* goingship_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = goingship_vendorDebug.xcconfig; path = Flutter/goingship_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		D3A1FF3DD1E21F4BBEAE3AE1 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
+		D46FBB7A54D6D06B3BA9D8B7 /* sob_express_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sob_express_vendorDebug.xcconfig; path = Flutter/sob_express_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		D6CA260B75A37E765AE8A484 /* Pods-Runner.profile-suc365_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-suc365_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-suc365_vendor.xcconfig"; sourceTree = "<group>"; };
+		D87C7E7C8ECDD2969845FBAD /* grabxanh_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = grabxanh_vendorLaunchScreen.storyboard; path = Runner/grabxanh_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		DA32C3897D90150D0BF1C0BC /* Pods-Runner.debug-fasthub_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-fasthub_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-fasthub_vendor.xcconfig"; sourceTree = "<group>"; };
+		DDB1D5171A03FAC690386C47 /* Pods-Runner.release-suc365_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-suc365_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-suc365_vendor.xcconfig"; sourceTree = "<group>"; };
+		DE2413E8621D2BFA1F8DD0A7 /* vasone_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = vasone_vendorRelease.xcconfig; path = Flutter/vasone_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		E2B4EEB744D2E54D84B72970 /* Pods-Runner.profile-sob_express_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-sob_express_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-sob_express_vendor.xcconfig"; sourceTree = "<group>"; };
+		E5788BCB187BBD1FE674AE9F /* sob_express_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = sob_express_vendorProfile.xcconfig; path = Flutter/sob_express_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		E6A730E051164883C67CBBCE /* goingship_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = goingship_vendorLaunchScreen.storyboard; path = Runner/goingship_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		E82B876588D6A464C50280F0 /* appvietsob_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = appvietsob_vendorProfile.xcconfig; path = Flutter/appvietsob_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		EA09BFF960AA7F978B105BE6 /* Pods-Runner.debug-sob_express_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-sob_express_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-sob_express_vendor.xcconfig"; sourceTree = "<group>"; };
+		EB004D6D7FDA7889A64BCCAA /* suc365_vendorProfile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = suc365_vendorProfile.xcconfig; path = Flutter/suc365_vendorProfile.xcconfig; sourceTree = "<group>"; };
+		EB178A9E86AD094D896F2848 /* appvietsob_vendorDebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = appvietsob_vendorDebug.xcconfig; path = Flutter/appvietsob_vendorDebug.xcconfig; sourceTree = "<group>"; };
+		EE9661A33B544AF5DE63C14C /* goingship_vendorRelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = goingship_vendorRelease.xcconfig; path = Flutter/goingship_vendorRelease.xcconfig; sourceTree = "<group>"; };
+		F378C91DCCD6C8C31AA9BA4B /* sod_vendorLaunchScreen.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = sod_vendorLaunchScreen.storyboard; path = Runner/sod_vendorLaunchScreen.storyboard; sourceTree = "<group>"; };
+		F791E520B935E966787F6CB6 /* Pods-Runner.profile-goingship_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-goingship_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-goingship_vendor.xcconfig"; sourceTree = "<group>"; };
+		F92AA836E325228DBCF3C092 /* Pods-Runner.profile-sod_vendor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-sod_vendor.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-sod_vendor.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97C146EB1CF9000F007C117D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9EDFBF2BBABFFC6F232C0F1 /* Pods_Runner.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		01632E723CE04CA6B8FD4519 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D3A1FF3DD1E21F4BBEAE3AE1 /* Pods-Runner.debug.xcconfig */,
+				089C39294D5D6A3084D6735F /* Pods-Runner.release.xcconfig */,
+				60B936FD58067FCC6C9FDC5A /* Pods-Runner.profile.xcconfig */,
+				C7AF2662CC0262306BC71CA7 /* Pods-Runner.debug-sod_vendor.xcconfig */,
+				F92AA836E325228DBCF3C092 /* Pods-Runner.profile-sod_vendor.xcconfig */,
+				06F24A3D8211B269692250E5 /* Pods-Runner.release-sod_vendor.xcconfig */,
+				EA09BFF960AA7F978B105BE6 /* Pods-Runner.debug-sob_express_vendor.xcconfig */,
+				E2B4EEB744D2E54D84B72970 /* Pods-Runner.profile-sob_express_vendor.xcconfig */,
+				9D624C172ED48F6FADF353F5 /* Pods-Runner.release-sob_express_vendor.xcconfig */,
+				4BD5B4D15AFF3A8071B10846 /* Pods-Runner.debug-suc365_vendor.xcconfig */,
+				D6CA260B75A37E765AE8A484 /* Pods-Runner.profile-suc365_vendor.xcconfig */,
+				DDB1D5171A03FAC690386C47 /* Pods-Runner.release-suc365_vendor.xcconfig */,
+				5042061CF1323E5B25FCEFB5 /* Pods-Runner.debug-g47_vendor.xcconfig */,
+				218D1A09C326F85015C5B330 /* Pods-Runner.profile-g47_vendor.xcconfig */,
+				3F967EE151416B8EE9CE1DDC /* Pods-Runner.release-g47_vendor.xcconfig */,
+				2E857D35BDE7A66EF1F6A50A /* Pods-Runner.debug-appvietsob_vendor.xcconfig */,
+				B483844F6BA4C87EDDE272C9 /* Pods-Runner.profile-appvietsob_vendor.xcconfig */,
+				0D1992D3D96BC3B7146BE0A2 /* Pods-Runner.release-appvietsob_vendor.xcconfig */,
+				DA32C3897D90150D0BF1C0BC /* Pods-Runner.debug-fasthub_vendor.xcconfig */,
+				D2C039122DF0F5CC21368D37 /* Pods-Runner.profile-fasthub_vendor.xcconfig */,
+				B36DB4239E99B2FA8A329D88 /* Pods-Runner.release-fasthub_vendor.xcconfig */,
+				856E8B4391A7495E2685F6F8 /* Pods-Runner.debug-vasone_vendor.xcconfig */,
+				0AD5EFDCE8765B234DBE2D19 /* Pods-Runner.profile-vasone_vendor.xcconfig */,
+				9F393C4EF4107417A038066A /* Pods-Runner.release-vasone_vendor.xcconfig */,
+				9957FB74E7C6BFF9CDC09B85 /* Pods-Runner.debug-goingship_vendor.xcconfig */,
+				F791E520B935E966787F6CB6 /* Pods-Runner.profile-goingship_vendor.xcconfig */,
+				D1D5CBB3FBDEC045947A2F55 /* Pods-Runner.release-goingship_vendor.xcconfig */,
+				3369BDBC193B30E946CD4AB4 /* Pods-Runner.debug-grabxanh_vendor.xcconfig */,
+				A35B9F7FD982275BB2341E57 /* Pods-Runner.profile-grabxanh_vendor.xcconfig */,
+				C21ADE6A25EA2D7909BFEFED /* Pods-Runner.release-grabxanh_vendor.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		2ADB389135AE76AA5FCA84F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D12A1B19B6B74FE4E0139371 /* Pods_Runner.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9740EEB11CF90186004384FC /* Flutter */ = {
+			isa = PBXGroup;
+			children = (
+				3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */,
+				9740EEB21CF90195004384FC /* Debug.xcconfig */,
+				7AFA3C8E1D35360C0083082E /* Release.xcconfig */,
+				9740EEB31CF90195004384FC /* Generated.xcconfig */,
+				71ACFC50F0D6D4D0CD61B7B3 /* sod_vendorDebug.xcconfig */,
+				4B8F4A3BC62BFB4AF1F926BC /* sod_vendorProfile.xcconfig */,
+				57ADBF11D4E24D5CD4E7812F /* sod_vendorRelease.xcconfig */,
+				D46FBB7A54D6D06B3BA9D8B7 /* sob_express_vendorDebug.xcconfig */,
+				E5788BCB187BBD1FE674AE9F /* sob_express_vendorProfile.xcconfig */,
+				A86B4EC1B3C54A0C9786DBB1 /* sob_express_vendorRelease.xcconfig */,
+				3822370BF60F2EA2B872CE8C /* suc365_vendorDebug.xcconfig */,
+				EB004D6D7FDA7889A64BCCAA /* suc365_vendorProfile.xcconfig */,
+				2074944F865819D9DB7FDAEB /* suc365_vendorRelease.xcconfig */,
+				A47203AC1071F72904ABE99D /* g47_vendorDebug.xcconfig */,
+				6DDF1DAD91F9868A0BF834B0 /* g47_vendorProfile.xcconfig */,
+				2DE615BDD9A051FBD125FFA3 /* g47_vendorRelease.xcconfig */,
+				EB178A9E86AD094D896F2848 /* appvietsob_vendorDebug.xcconfig */,
+				E82B876588D6A464C50280F0 /* appvietsob_vendorProfile.xcconfig */,
+				0C2DFA21C4412F57D1EA3CA1 /* appvietsob_vendorRelease.xcconfig */,
+				A6C5C5F61CBCA4BCB45DEA0F /* fasthub_vendorDebug.xcconfig */,
+				CBD00164CC9EC1E7990DA8A7 /* fasthub_vendorProfile.xcconfig */,
+				C1C88761D0D57F04E2EE3BEE /* fasthub_vendorRelease.xcconfig */,
+				6CF30CA975D8DF192566973B /* vasone_vendorDebug.xcconfig */,
+				3F3A2ADFCF267B6D0D66E82A /* vasone_vendorProfile.xcconfig */,
+				DE2413E8621D2BFA1F8DD0A7 /* vasone_vendorRelease.xcconfig */,
+				D302D29D01E94A88236E3F77 /* goingship_vendorDebug.xcconfig */,
+				B6882D098695B50D08D1B00F /* goingship_vendorProfile.xcconfig */,
+				EE9661A33B544AF5DE63C14C /* goingship_vendorRelease.xcconfig */,
+				568761916D9A238800EF44D8 /* grabxanh_vendorDebug.xcconfig */,
+				86992349011CB22E5F179F3E /* grabxanh_vendorProfile.xcconfig */,
+				4FBD7880E7D229298BCD69FB /* grabxanh_vendorRelease.xcconfig */,
+			);
+			name = Flutter;
+			sourceTree = "<group>";
+		};
+		97C146E51CF9000F007C117D = {
+			isa = PBXGroup;
+			children = (
+				9740EEB11CF90186004384FC /* Flutter */,
+				97C146F01CF9000F007C117D /* Runner */,
+				97C146EF1CF9000F007C117D /* Products */,
+				01632E723CE04CA6B8FD4519 /* Pods */,
+				F378C91DCCD6C8C31AA9BA4B /* sod_vendorLaunchScreen.storyboard */,
+				BC8DDC2F4E36742A968F6CB9 /* sob_express_vendorLaunchScreen.storyboard */,
+				A64C18CFD399C236634E42EB /* suc365_vendorLaunchScreen.storyboard */,
+				57B509655B6EDA093067D057 /* g47_vendorLaunchScreen.storyboard */,
+				55CC02A944D2D1FE03778C9A /* appvietsob_vendorLaunchScreen.storyboard */,
+				9C274166738D41F46681D3C5 /* GoogleService-Info.plist */,
+				89164287995C783E95C889C1 /* fasthub_vendorLaunchScreen.storyboard */,
+				9984142C888F04FE3070A051 /* vasone_vendorLaunchScreen.storyboard */,
+				2ADB389135AE76AA5FCA84F0 /* Frameworks */,
+				E6A730E051164883C67CBBCE /* goingship_vendorLaunchScreen.storyboard */,
+				D87C7E7C8ECDD2969845FBAD /* grabxanh_vendorLaunchScreen.storyboard */,
+			);
+			sourceTree = "<group>";
+		};
+		97C146EF1CF9000F007C117D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97C146EE1CF9000F007C117D /* Runner.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97C146F01CF9000F007C117D /* Runner */ = {
+			isa = PBXGroup;
+			children = (
+				1E0515CC2C9D5CBE00769C92 /* RunnerRelease-goingship_vendor.entitlements */,
+				1E0515CB2C9D5CB000769C92 /* RunnerProfile-goingship_vendor.entitlements */,
+				1EC700CB2C9366BE00577792 /* RunnerDebug-grabxanh_vendor.entitlements */,
+				1EC700CA2C9366AC00577792 /* RunnerDebug-goingship_vendor.entitlements */,
+				1EC700C92C9366A200577792 /* RunnerDebug-vasone_vendor.entitlements */,
+				1EC700C82C93669800577792 /* RunnerDebug-fasthub_vendor.entitlements */,
+				1EC700C72C93668500577792 /* RunnerDebug-appvietsob_vendor.entitlements */,
+				1EC700C62C93667B00577792 /* RunnerDebug-g47_vendor.entitlements */,
+				1EC700C52C93667000577792 /* RunnerRelease-suc365_vendor.entitlements */,
+				1EC700C42C93665B00577792 /* RunnerDebug-suc365_vendor.entitlements */,
+				1EC700C32C93661F00577792 /* RunnerDebug-sob_express_vendor.entitlements */,
+				1EC700C22C93661A00577792 /* RunnerRelease-sod_vendor.entitlements */,
+				1EC700C12C93661500577792 /* RunnerProfile-sod_vendor.entitlements */,
+				1EC700C02C93660F00577792 /* RunnerDebug-sod_vendor.entitlements */,
+				B61EB836285DE24200BF74A0 /* alert_new.aiff */,
+				B61EB835285DE24200BF74A0 /* alert.aiff */,
+				49BF1B14261F237C00FF28A0 /* GoogleService-Info.plist */,
+				49E921F225E6901400630B0D /* RunnerDebug.entitlements */,
+				49E921F125E68FEA00630B0D /* Runner.entitlements */,
+				97C146FA1CF9000F007C117D /* Main.storyboard */,
+				97C146FD1CF9000F007C117D /* Assets.xcassets */,
+				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
+				97C147021CF9000F007C117D /* Info.plist */,
+				1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */,
+				1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */,
+				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
+				74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */,
+			);
+			path = Runner;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97C146ED1CF9000F007C117D /* Runner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */;
+			buildPhases = (
+				31D12C642C377D606B3BD708 /* [CP] Check Pods Manifest.lock */,
+				D67A93ACA32C52032250791E /* Firebase Setup */,
+				9740EEB61CF901F6004384FC /* Run Script */,
+				97C146EA1CF9000F007C117D /* Sources */,
+				97C146EB1CF9000F007C117D /* Frameworks */,
+				97C146EC1CF9000F007C117D /* Resources */,
+				9705A1C41CF9048500538489 /* Embed Frameworks */,
+				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
+				B64FB406CC0A7A4DE60674C8 /* [CP] Embed Pods Frameworks */,
+				32B0C7CEC2220AD1E3AB0F15 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Runner;
+			productName = Runner;
+			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97C146E61CF9000F007C117D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1510;
+				ORGANIZATIONNAME = "";
+				TargetAttributes = {
+					97C146ED1CF9000F007C117D = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 1100;
+					};
+				};
+			};
+			buildConfigurationList = 97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 97C146E51CF9000F007C117D;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97C146ED1CF9000F007C117D /* Runner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97C146EC1CF9000F007C117D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */,
+				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
+				B61EB837285DE24300BF74A0 /* alert.aiff in Resources */,
+				49BF1B15261F237C00FF28A0 /* GoogleService-Info.plist in Resources */,
+				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
+				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
+				B61EB838285DE24300BF74A0 /* alert_new.aiff in Resources */,
+				013A1454D8D063335BC3F741 /* sod_vendorDebug.xcconfig in Resources */,
+				35DC3EC150156A79FCD9FA4E /* sod_vendorProfile.xcconfig in Resources */,
+				C514C17E606056CD99FE58B6 /* sod_vendorRelease.xcconfig in Resources */,
+				0F717764AD2C508DF21B5792 /* sob_express_vendorDebug.xcconfig in Resources */,
+				E9E29773031BB2241CE73E23 /* sob_express_vendorProfile.xcconfig in Resources */,
+				E6F925164A98B956D7C44D6C /* sob_express_vendorRelease.xcconfig in Resources */,
+				3C530C98D8932C58E0D4CE94 /* suc365_vendorDebug.xcconfig in Resources */,
+				B9B2C6390AD4C1A116B8622F /* suc365_vendorProfile.xcconfig in Resources */,
+				57F272792A7736525C951880 /* suc365_vendorRelease.xcconfig in Resources */,
+				356E34C13E3C5D7D6210B1FA /* g47_vendorDebug.xcconfig in Resources */,
+				2932D1902AAD53552FB12582 /* g47_vendorProfile.xcconfig in Resources */,
+				14231E418CABAC5BF3596EC0 /* g47_vendorRelease.xcconfig in Resources */,
+				7F84EB8AA818BC0F4A4CED50 /* appvietsob_vendorDebug.xcconfig in Resources */,
+				26BE281CEC30463A97AEEEEE /* appvietsob_vendorProfile.xcconfig in Resources */,
+				6E9112556B55D75065E03005 /* appvietsob_vendorRelease.xcconfig in Resources */,
+				C6F6F35FC1B95D0C710DE832 /* sod_vendorLaunchScreen.storyboard in Resources */,
+				8E862A5EC9D15912EB586177 /* sob_express_vendorLaunchScreen.storyboard in Resources */,
+				C8FA3A7094196AEB3924C4A5 /* suc365_vendorLaunchScreen.storyboard in Resources */,
+				6612EFF4774838CA6011A8DA /* g47_vendorLaunchScreen.storyboard in Resources */,
+				C61A02E44008DE7A79BAC3EA /* appvietsob_vendorLaunchScreen.storyboard in Resources */,
+				5C7C9E98C85311DE92AA6E0F /* GoogleService-Info.plist in Resources */,
+				75ADCDFA98942375820F13F8 /* fasthub_vendorDebug.xcconfig in Resources */,
+				FF557A0A22E2B12D435D1948 /* fasthub_vendorProfile.xcconfig in Resources */,
+				646EB5451737D766110A0F27 /* fasthub_vendorRelease.xcconfig in Resources */,
+				6173EC450F93B860C8538CB2 /* vasone_vendorDebug.xcconfig in Resources */,
+				5675DAA6D2F9A12ADAB6B54B /* vasone_vendorProfile.xcconfig in Resources */,
+				3EB2E2316C5D6466722533DA /* vasone_vendorRelease.xcconfig in Resources */,
+				F7B2E7CE41F6A1E1BC65516C /* fasthub_vendorLaunchScreen.storyboard in Resources */,
+				212989F96D2FC7C7578525CE /* vasone_vendorLaunchScreen.storyboard in Resources */,
+				B265D4ED295B6A867F6FDD3F /* goingship_vendorDebug.xcconfig in Resources */,
+				ADEE642C9646D913D7859137 /* goingship_vendorProfile.xcconfig in Resources */,
+				7B3AD86A43EB7DAEA06D7745 /* goingship_vendorRelease.xcconfig in Resources */,
+				AD33D1EEEF5BC5AE09C33630 /* grabxanh_vendorDebug.xcconfig in Resources */,
+				F356D08300C85C0FB0E38508 /* grabxanh_vendorProfile.xcconfig in Resources */,
+				82BFD38A32D45D94B2B1AB87 /* grabxanh_vendorRelease.xcconfig in Resources */,
+				DF45EF16323030EBCFB72D45 /* goingship_vendorLaunchScreen.storyboard in Resources */,
+				06B489961601FFEFAF794AFA /* grabxanh_vendorLaunchScreen.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		31D12C642C377D606B3BD708 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Runner-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		32B0C7CEC2220AD1E3AB0F15 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3B06AD1E1E4923F5004D2608 /* Thin Binary */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${TARGET_BUILD_DIR}/${INFOPLIST_PATH}",
+			);
+			name = "Thin Binary";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" embed_and_thin";
+		};
+		9740EEB61CF901F6004384FC /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" build\n";
+		};
+		B64FB406CC0A7A4DE60674C8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D67A93ACA32C52032250791E /* Firebase Setup */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Firebase Setup";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ \"$CONFIGURATION\" == \"Debug-grabxanh_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-grabxanh_vendor\" ]; then\n  cp Runner/grabxanh_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-goingship_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-goingship_vendor\" ]; then\n  cp Runner/goingship_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-sod_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-sod_vendor\" ]; then\n  cp Runner/sod_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-sob_express_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-sob_express_vendor\" ]; then\n  cp Runner/sob_express_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-suc365_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-suc365_vendor\" ]; then\n  cp Runner/suc365_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-g47_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-g47_vendor\" ]; then\n  cp Runner/g47_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-appvietsob_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-appvietsob_vendor\" ]; then\n  cp Runner/appvietsob_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-vasone_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-vasone_vendor\" ]; then\n  cp Runner/vasone_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nelif [ \"$CONFIGURATION\" == \"Debug-fasthub_vendor\" ] || [ \"$CONFIGURATION\" == \"Release-fasthub_vendor\" ]; then\n  cp Runner/fasthub_vendor/GoogleService-Info.plist Runner/GoogleService-Info.plist\nfi\n\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97C146EA1CF9000F007C117D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */,
+				1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		97C146FA1CF9000F007C117D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97C146FB1CF9000F007C117D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97C147001CF9000F007C117D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0003AE39525AA90D4A0F1747 /* Debug-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 568761916D9A238800EF44D8 /* grabxanh_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = goxanhvendor.shipxanh247.com.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-grabxanh_vendor";
+		};
+		05530F8C99D8BA25AF51B1B9 /* Debug-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 71ACFC50F0D6D4D0CD61B7B3 /* sod_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-sod_vendor";
+		};
+		0763584ADEEC9D38E37CFEFA /* Profile-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E5788BCB187BBD1FE674AE9F /* sob_express_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = sobvendor.express.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-sob_express_vendor";
+		};
+		20C538D2D4094562538F6D86 /* Debug-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB178A9E86AD094D896F2848 /* appvietsob_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				BUNDLE_DISPLAY_NAME = "AV Cửa Hàng";
+				BUNDLE_NAME = "AV Cửa Hàng";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = appvietsob.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-appvietsob_vendor";
+		};
+		249021D3217E4FDB00AE95B9 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Profile;
+		};
+		249021D4217E4FDB00AE95B9 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Profile;
+		};
+		2B8F7BEF2C5D02EC002E07A2 /* Debug-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9957FB74E7C6BFF9CDC09B85 /* Pods-Runner.debug-goingship_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				BUNDLE_DISPLAY_NAME = "GoGo Cửa Hàng";
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-goingship_vendor.entitlements";
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-goingship_vendor";
+		};
+		2B8F7BF02C5D02EC002E07A2 /* Profile-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F791E520B935E966787F6CB6 /* Pods-Runner.profile-goingship_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerProfile-goingship_vendor.entitlements";
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-goingship_vendor";
+		};
+		2B8F7BF12C5D02EC002E07A2 /* Release-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1D5CBB3FBDEC045947A2F55 /* Pods-Runner.release-goingship_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerRelease-goingship_vendor.entitlements";
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-goingship_vendor";
+		};
+		2B8F7BF22C5D02EC002E07A2 /* Debug-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3369BDBC193B30E946CD4AB4 /* Pods-Runner.debug-grabxanh_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-grabxanh_vendor.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Debug-grabxanh_vendor";
+		};
+		2B8F7BF32C5D02EC002E07A2 /* Profile-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A35B9F7FD982275BB2341E57 /* Pods-Runner.profile-grabxanh_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Profile-grabxanh_vendor";
+		};
+		2B8F7BF42C5D02EC002E07A2 /* Release-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C21ADE6A25EA2D7909BFEFED /* Pods-Runner.release-grabxanh_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Release-grabxanh_vendor";
+		};
+		2CEF8300B0220C488D61E46A /* Profile-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86992349011CB22E5F179F3E /* grabxanh_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = goxanhvendor.shipxanh247.com.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-grabxanh_vendor";
+		};
+		384904C870176FA9EEEB6050 /* Release-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A86B4EC1B3C54A0C9786DBB1 /* sob_express_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = sobvendor.express.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-sob_express_vendor";
+		};
+		437626B5A26E276F495C087C /* Debug-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3822370BF60F2EA2B872CE8C /* suc365_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = suc365vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-suc365_vendor";
+		};
+		48F8E94E9AB5D8C5A54C9D83 /* Release-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2DE615BDD9A051FBD125FFA3 /* g47_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = g47vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-g47_vendor";
+		};
+		49D13756B453F26F027EABB4 /* Profile-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6882D098695B50D08D1B00F /* goingship_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-goingship_vendor";
+		};
+		4A7442E18DB7E3977CC830FF /* Release-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EE9661A33B544AF5DE63C14C /* goingship_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-goingship_vendor";
+		};
+		530BAC82530B3A6F427D3B66 /* Profile-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB004D6D7FDA7889A64BCCAA /* suc365_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = suc365vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-suc365_vendor";
+		};
+		5A322B553EB8A17D3B6BA711 /* Profile-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CBD00164CC9EC1E7990DA8A7 /* fasthub_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = fasthub.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-fasthub_vendor";
+		};
+		5BC8DEDA05A6585053DEC24D /* Profile-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3F3A2ADFCF267B6D0D66E82A /* vasone_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = vasone.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-vasone_vendor";
+		};
+		6040DB69460766595E180160 /* Debug-goingship_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D302D29D01E94A88236E3F77 /* goingship_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.goingship.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-goingship_vendor";
+		};
+		6F6EBB0FEA0A8FA4A34B08BA /* Profile-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4B8F4A3BC62BFB4AF1F926BC /* sod_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-sod_vendor";
+		};
+		7213BA408E611B8CA54DFE17 /* Profile-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E82B876588D6A464C50280F0 /* appvietsob_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				BUNDLE_DISPLAY_NAME = "AV Cửa Hàng";
+				BUNDLE_NAME = "AV Cửa Hàng";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = appvietsob.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-appvietsob_vendor";
+		};
+		75504B04AEA05350A45E73B2 /* Release-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 57ADBF11D4E24D5CD4E7812F /* sod_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-sod_vendor";
+		};
+		7BB85C38BA79CDAE22C9CA2B /* Release-grabxanh_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4FBD7880E7D229298BCD69FB /* grabxanh_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = goxanhvendor.shipxanh247.com.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-grabxanh_vendor";
+		};
+		8D075E36FF4D7395F9563D80 /* Profile-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6DDF1DAD91F9868A0BF834B0 /* g47_vendorProfile.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = g47vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Profile-g47_vendor";
+		};
+		97C147031CF9000F007C117D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97C147041CF9000F007C117D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97C147061CF9000F007C117D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/RunnerDebug.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = LaunchScreen;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		97C147071CF9000F007C117D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = sodvendor.di4l.vn.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		9B35054DD3405D9532F4B93F /* Release-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C2DFA21C4412F57D1EA3CA1 /* appvietsob_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				BUNDLE_DISPLAY_NAME = "AV Cửa Hàng";
+				BUNDLE_NAME = "AV Cửa Hàng";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = appvietsob.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-appvietsob_vendor";
+		};
+		9D7E7721E84FA0DF257288EB /* Release-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C1C88761D0D57F04E2EE3BEE /* fasthub_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = fasthub.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-fasthub_vendor";
+		};
+		9E86403F2BA1F173002F1719 /* Debug-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7AF2662CC0262306BC71CA7 /* Pods-Runner.debug-sod_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-sod_vendor.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sod_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Debug-sod_vendor";
+		};
+		9E8640402BA1F173002F1719 /* Profile-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F92AA836E325228DBCF3C092 /* Pods-Runner.profile-sod_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerProfile-sod_vendor.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sod_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Profile-sod_vendor";
+		};
+		9E8640412BA1F173002F1719 /* Release-sod_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 06F24A3D8211B269692250E5 /* Pods-Runner.release-sod_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerRelease-sod_vendor.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sod_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Release-sod_vendor";
+		};
+		9E8640422BA1F173002F1719 /* Debug-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EA09BFF960AA7F978B105BE6 /* Pods-Runner.debug-sob_express_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-sob_express_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sob_express_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-sob_express_vendor";
+		};
+		9E8640432BA1F173002F1719 /* Profile-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E2B4EEB744D2E54D84B72970 /* Pods-Runner.profile-sob_express_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sob_express_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-sob_express_vendor";
+		};
+		9E8640442BA1F173002F1719 /* Release-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D624C172ED48F6FADF353F5 /* Pods-Runner.release-sob_express_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = sob_express_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-sob_express_vendor";
+		};
+		9E8640452BA1F173002F1719 /* Debug-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4BD5B4D15AFF3A8071B10846 /* Pods-Runner.debug-suc365_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-suc365_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = suc365_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-suc365_vendor";
+		};
+		9E8640462BA1F173002F1719 /* Profile-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6CA260B75A37E765AE8A484 /* Pods-Runner.profile-suc365_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = suc365_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-suc365_vendor";
+		};
+		9E8640472BA1F173002F1719 /* Release-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DDB1D5171A03FAC690386C47 /* Pods-Runner.release-suc365_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerRelease-suc365_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = suc365_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-suc365_vendor";
+		};
+		9E8640482BA1F173002F1719 /* Debug-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5042061CF1323E5B25FCEFB5 /* Pods-Runner.debug-g47_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-g47_vendor.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = g47_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Debug-g47_vendor";
+		};
+		9E8640492BA1F173002F1719 /* Profile-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 218D1A09C326F85015C5B330 /* Pods-Runner.profile-g47_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				"FLUTTER_TARGET[arch=*]" = lib/main_g47_vendor.dart;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = g47_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-g47_vendor";
+		};
+		9E86404A2BA1F173002F1719 /* Release-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3F967EE151416B8EE9CE1DDC /* Pods-Runner.release-g47_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = g47_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-g47_vendor";
+		};
+		9E86404B2BA1F173002F1719 /* Debug-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E857D35BDE7A66EF1F6A50A /* Pods-Runner.debug-appvietsob_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-appvietsob_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = appvietsob_vendorLaunchScreen;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.appviet.com.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-appvietsob_vendor";
+		};
+		9E86404C2BA1F173002F1719 /* Profile-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B483844F6BA4C87EDDE272C9 /* Pods-Runner.profile-appvietsob_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = appvietsob_vendorLaunchScreen;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.appviet.com.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-appvietsob_vendor";
+		};
+		9E86404D2BA1F173002F1719 /* Release-appvietsob_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0D1992D3D96BC3B7146BE0A2 /* Pods-Runner.release-appvietsob_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = appvietsob_vendorLaunchScreen;
+				PRODUCT_BUNDLE_IDENTIFIER = vendor.appviet.com.vn.ios;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-appvietsob_vendor";
+		};
+		9E86404E2BA1F173002F1719 /* Debug-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA32C3897D90150D0BF1C0BC /* Pods-Runner.debug-fasthub_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-fasthub_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = fasthub_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-fasthub_vendor";
+		};
+		9E86404F2BA1F173002F1719 /* Profile-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D2C039122DF0F5CC21368D37 /* Pods-Runner.profile-fasthub_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = fasthub_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-fasthub_vendor";
+		};
+		9E8640502BA1F173002F1719 /* Release-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B36DB4239E99B2FA8A329D88 /* Pods-Runner.release-fasthub_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = fasthub_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-fasthub_vendor";
+		};
+		9E8640512BA1F173002F1719 /* Debug-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 856E8B4391A7495E2685F6F8 /* Pods-Runner.debug-vasone_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CODE_SIGN_ENTITLEMENTS = "Runner/RunnerDebug-vasone_vendor.entitlements";
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = vasone_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Debug-vasone_vendor";
+		};
+		9E8640522BA1F173002F1719 /* Profile-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0AD5EFDCE8765B234DBE2D19 /* Pods-Runner.profile-vasone_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = vasone_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Profile-vasone_vendor";
+		};
+		9E8640532BA1F173002F1719 /* Release-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F393C4EF4107417A038066A /* Pods-Runner.release-vasone_vendor.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-$(ASSET_PREFIX)";
+				ASSET_PREFIX = "$(ASSET_PREFIX)";
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
+				CURRENT_PROJECT_VERSION = 1.1;
+				DEVELOPMENT_TEAM = Z9RS2YDHZT;
+				LAUNCH_SCREEN_STORYBOARD = "";
+				"LAUNCH_SCREEN_STORYBOARD[arch=*]" = vasone_vendorLaunchScreen;
+				PRODUCT_NAME = Runner;
+			};
+			name = "Release-vasone_vendor";
+		};
+		B86D87BF210380B0FCD0A577 /* Release-suc365_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2074944F865819D9DB7FDAEB /* suc365_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = suc365vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-suc365_vendor";
+		};
+		C6BCF726373455DB1418E178 /* Debug-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6CF30CA975D8DF192566973B /* vasone_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = vasone.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-vasone_vendor";
+		};
+		D39B852402F7D1CA68062C43 /* Debug-sob_express_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D46FBB7A54D6D06B3BA9D8B7 /* sob_express_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = sobvendor.express.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-sob_express_vendor";
+		};
+		D3A958AC4208FD4323D25F04 /* Release-vasone_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DE2413E8621D2BFA1F8DD0A7 /* vasone_vendorRelease.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = vasone.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Release-vasone_vendor";
+		};
+		EC107986912E1AECED60B99F /* Debug-g47_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A47203AC1071F72904ABE99D /* g47_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = g47vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-g47_vendor";
+		};
+		F1A8B7F83647C37BC1858277 /* Debug-fasthub_vendor */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A6C5C5F61CBCA4BCB45DEA0F /* fasthub_vendorDebug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "$(ASSET_PREFIX)AppIcon";
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = fasthub.vendor.di4l.vn.ios;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Debug-fasthub_vendor";
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97C147031CF9000F007C117D /* Debug */,
+				97C147041CF9000F007C117D /* Release */,
+				249021D3217E4FDB00AE95B9 /* Profile */,
+				05530F8C99D8BA25AF51B1B9 /* Debug-sod_vendor */,
+				6F6EBB0FEA0A8FA4A34B08BA /* Profile-sod_vendor */,
+				75504B04AEA05350A45E73B2 /* Release-sod_vendor */,
+				D39B852402F7D1CA68062C43 /* Debug-sob_express_vendor */,
+				0763584ADEEC9D38E37CFEFA /* Profile-sob_express_vendor */,
+				384904C870176FA9EEEB6050 /* Release-sob_express_vendor */,
+				437626B5A26E276F495C087C /* Debug-suc365_vendor */,
+				530BAC82530B3A6F427D3B66 /* Profile-suc365_vendor */,
+				B86D87BF210380B0FCD0A577 /* Release-suc365_vendor */,
+				EC107986912E1AECED60B99F /* Debug-g47_vendor */,
+				8D075E36FF4D7395F9563D80 /* Profile-g47_vendor */,
+				48F8E94E9AB5D8C5A54C9D83 /* Release-g47_vendor */,
+				20C538D2D4094562538F6D86 /* Debug-appvietsob_vendor */,
+				7213BA408E611B8CA54DFE17 /* Profile-appvietsob_vendor */,
+				9B35054DD3405D9532F4B93F /* Release-appvietsob_vendor */,
+				F1A8B7F83647C37BC1858277 /* Debug-fasthub_vendor */,
+				5A322B553EB8A17D3B6BA711 /* Profile-fasthub_vendor */,
+				9D7E7721E84FA0DF257288EB /* Release-fasthub_vendor */,
+				C6BCF726373455DB1418E178 /* Debug-vasone_vendor */,
+				5BC8DEDA05A6585053DEC24D /* Profile-vasone_vendor */,
+				D3A958AC4208FD4323D25F04 /* Release-vasone_vendor */,
+				6040DB69460766595E180160 /* Debug-goingship_vendor */,
+				49D13756B453F26F027EABB4 /* Profile-goingship_vendor */,
+				4A7442E18DB7E3977CC830FF /* Release-goingship_vendor */,
+				0003AE39525AA90D4A0F1747 /* Debug-grabxanh_vendor */,
+				2CEF8300B0220C488D61E46A /* Profile-grabxanh_vendor */,
+				7BB85C38BA79CDAE22C9CA2B /* Release-grabxanh_vendor */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97C147061CF9000F007C117D /* Debug */,
+				97C147071CF9000F007C117D /* Release */,
+				249021D4217E4FDB00AE95B9 /* Profile */,
+				9E86403F2BA1F173002F1719 /* Debug-sod_vendor */,
+				9E8640402BA1F173002F1719 /* Profile-sod_vendor */,
+				9E8640412BA1F173002F1719 /* Release-sod_vendor */,
+				9E8640422BA1F173002F1719 /* Debug-sob_express_vendor */,
+				9E8640432BA1F173002F1719 /* Profile-sob_express_vendor */,
+				9E8640442BA1F173002F1719 /* Release-sob_express_vendor */,
+				9E8640452BA1F173002F1719 /* Debug-suc365_vendor */,
+				9E8640462BA1F173002F1719 /* Profile-suc365_vendor */,
+				9E8640472BA1F173002F1719 /* Release-suc365_vendor */,
+				9E8640482BA1F173002F1719 /* Debug-g47_vendor */,
+				9E8640492BA1F173002F1719 /* Profile-g47_vendor */,
+				9E86404A2BA1F173002F1719 /* Release-g47_vendor */,
+				9E86404B2BA1F173002F1719 /* Debug-appvietsob_vendor */,
+				9E86404C2BA1F173002F1719 /* Profile-appvietsob_vendor */,
+				9E86404D2BA1F173002F1719 /* Release-appvietsob_vendor */,
+				9E86404E2BA1F173002F1719 /* Debug-fasthub_vendor */,
+				9E86404F2BA1F173002F1719 /* Profile-fasthub_vendor */,
+				9E8640502BA1F173002F1719 /* Release-fasthub_vendor */,
+				9E8640512BA1F173002F1719 /* Debug-vasone_vendor */,
+				9E8640522BA1F173002F1719 /* Profile-vasone_vendor */,
+				9E8640532BA1F173002F1719 /* Release-vasone_vendor */,
+				2B8F7BEF2C5D02EC002E07A2 /* Debug-goingship_vendor */,
+				2B8F7BF02C5D02EC002E07A2 /* Profile-goingship_vendor */,
+				2B8F7BF12C5D02EC002E07A2 /* Release-goingship_vendor */,
+				2B8F7BF22C5D02EC002E07A2 /* Debug-grabxanh_vendor */,
+				2B8F7BF32C5D02EC002E07A2 /* Profile-grabxanh_vendor */,
+				2B8F7BF42C5D02EC002E07A2 /* Release-grabxanh_vendor */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97C146E61CF9000F007C117D /* Project object */;
+}

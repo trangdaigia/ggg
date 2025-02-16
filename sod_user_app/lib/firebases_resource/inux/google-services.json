@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "666683520616",
+    "project_id": "inux-5cbd4",
+    "storage_bucket": "inux-5cbd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666683520616:android:0cc38945fff471863beddd",
+        "android_client_info": {
+          "package_name": "driver.inux.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666683520616-02o23kco6t6vhvvsspgn4a2oduudicut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.inux.vn",
+            "certificate_hash": "6137c4ccfdc7f51d451a556ba4d1026f428ae817"
+          }
+        },
+        {
+          "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03WBr9sUciU653n16_f-MhczZqS3aqCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666683520616-23p3ulcldmn0eboeu6avld0pdkg1m54f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "user.inux.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666683520616:android:576a1a43964d08b03beddd",
+        "android_client_info": {
+          "package_name": "nguoidung.inux.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03WBr9sUciU653n16_f-MhczZqS3aqCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666683520616-23p3ulcldmn0eboeu6avld0pdkg1m54f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "user.inux.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666683520616:android:e618383eff81b0f53beddd",
+        "android_client_info": {
+          "package_name": "user.inux.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666683520616-3obkicbn0g6t39ma81o0ioc4ldjv4dh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.inux.vn",
+            "certificate_hash": "74835f05ac241fdea5a180228158717509d40d72"
+          }
+        },
+        {
+          "client_id": "666683520616-j87a0pu4c26211qdn1onlj4k1bo26fsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.inux.vn",
+            "certificate_hash": "6137c4ccfdc7f51d451a556ba4d1026f428ae817"
+          }
+        },
+        {
+          "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03WBr9sUciU653n16_f-MhczZqS3aqCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666683520616-df26tpferggi48tim13go1jiodln8m8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666683520616-23p3ulcldmn0eboeu6avld0pdkg1m54f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "user.inux.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

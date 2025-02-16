@@ -1,0 +1,526 @@
+{
+  "project_info": {
+    "project_number": "410558250906",
+    "project_id": "goingship-4ded6",
+    "storage_bucket": "goingship-4ded6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:1f0b4604e7b6f89ecc0423",
+        "android_client_info": {
+          "package_name": "driver.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-fvgk0lja96rn781ptmbi9kp8as74o4ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.goingship.vn",
+            "certificate_hash": "f9a768f9e830ad44d40d5390e1aa900847545bff"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:a7d4ef0ddec26990cc0423",
+        "android_client_info": {
+          "package_name": "driver.goingshipv2.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:e1de30b8fd4b0059cc0423",
+        "android_client_info": {
+          "package_name": "driverv2.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-4ivvigmr3ffbau8h53shgdu85jjtf9d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driverv2.goingship.vn",
+            "certificate_hash": "f9a768f9e830ad44d40d5390e1aa900847545bff"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:923e5be3ac5bf081cc0423",
+        "android_client_info": {
+          "package_name": "driverv3.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-m2e4l1dlluk84fcejll8vlkjj0menrvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driverv3.goingship.vn",
+            "certificate_hash": "f9a768f9e830ad44d40d5390e1aa900847545bff"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:cb9cffafb0a96d40cc0423",
+        "android_client_info": {
+          "package_name": "gogoshipcuahang.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:5d75e160088c172fcc0423",
+        "android_client_info": {
+          "package_name": "gogoshiptaixe.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:73cc8628f228be9acc0423",
+        "android_client_info": {
+          "package_name": "user.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-7gb6kjp448e52e6be25c935oactpkfoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.goingship.vn",
+            "certificate_hash": "b26e4337603dd6c444504469a1a85bb4b92db9ed"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:2ac5bfd051c2b979cc0423",
+        "android_client_info": {
+          "package_name": "user.goingshipv2.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:11281752cf5726cecc0423",
+        "android_client_info": {
+          "package_name": "userv2.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:0290d8608bd84bfbcc0423",
+        "android_client_info": {
+          "package_name": "userv3.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-16brh9blol975sgeivvroum0ffr3b02i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "userv3.goingship.vn",
+            "certificate_hash": "b26e4337603dd6c444504469a1a85bb4b92db9ed"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:beec2162d2ccfd0acc0423",
+        "android_client_info": {
+          "package_name": "vendor.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-rgrpupsemifr70s0fe53u545uflmvkun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vendor.goingship.vn",
+            "certificate_hash": "4fd2050e69bd2917b1e12696708dc607dbdd1fb5"
+          }
+        },
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:92c701126fa54144cc0423",
+        "android_client_info": {
+          "package_name": "vendor.goingshipv2.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410558250906:android:917384089888f4dfcc0423",
+        "android_client_info": {
+          "package_name": "vendorv2.goingship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbb48Y9GpA2eCz7ssLprqlTOcXz0R0F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410558250906-k9vu6oc9l3ujprnj0h629simr5ablv0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410558250906-2acegavuverahd53a1g95sngn3gs7h1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.goingship.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

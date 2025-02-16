@@ -1,0 +1,8 @@
+app_identifier("soduser.di4l.vn.ios") # The bundle identifier of your app
+apple_id("di4lsolutions@gmail.com") # Your Apple Developer Portal username
+
+itc_team_id("118766133") # App Store Connect Team ID
+team_id("Z9RS2YDHZT") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "770928349127",
+    "project_id": "shipxanh-e0944",
+    "storage_bucket": "shipxanh-e0944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:0c602f6b1baf370086d3e2",
+        "android_client_info": {
+          "package_name": "bestship.user.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-28l9a35v7p8b8rqku5dm1550ie8tmd3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bestship.user.vn",
+            "certificate_hash": "b2caf215af705161f2572bee62e8262079fb580d"
+          }
+        },
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:1d2e85cd7bbfadab86d3e2",
+        "android_client_info": {
+          "package_name": "cuahang.ecoship247.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:c0827e73a211e54d86d3e2",
+        "android_client_info": {
+          "package_name": "driver.ecoship.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-8gcu451dt7g7r5ko4ecmdupvf1o94frh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.ecoship.com",
+            "certificate_hash": "3b1dde29eedb9c209510a7df28d7c8a7f51be8dc"
+          }
+        },
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:0c1728b08ed4a90e86d3e2",
+        "android_client_info": {
+          "package_name": "nguoidung.ecoship247.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:d9fbddf76258d03886d3e2",
+        "android_client_info": {
+          "package_name": "user.ecoship.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-hnf31h53usl6isnfg15u97cdtmaunlgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.ecoship.vn",
+            "certificate_hash": "6dab13c6d30aa97d30dfb30038005aae01675725"
+          }
+        },
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928349127:android:04cbc2b18a576a4586d3e2",
+        "android_client_info": {
+          "package_name": "vendor.ecoship247.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928349127-vbs3ktj62cmm4a2c7oc6skkmur3jpatq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vendor.ecoship247.com",
+            "certificate_hash": "ba710e5a486399a91af64e40f49892f2388eefce"
+          }
+        },
+        {
+          "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILIMv8ZmFrbrJQT-FRrRXGBsmxjqPY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928349127-mn9r9oc7l5mds3matjga473h2ruv2pi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770928349127-32oq05mtf0neo1kce7umq1cij1u1mhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "goxanh.shipxanh247.com.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

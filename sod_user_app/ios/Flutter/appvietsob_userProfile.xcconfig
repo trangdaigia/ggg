@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_appvietsob_user.dart
+ASSET_PREFIX=appvietsob_user
+BUNDLE_NAME=VietApp
+BUNDLE_DISPLAY_NAME=VietApp

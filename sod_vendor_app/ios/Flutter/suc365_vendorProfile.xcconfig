@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_suc365_vendor.dart
+ASSET_PREFIX=suc365_vendor
+BUNDLE_NAME=SUC365 Vendor
+BUNDLE_DISPLAY_NAME=SUC365 Vendor

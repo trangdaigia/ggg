@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sod_user.dart
+ASSET_PREFIX=sod_user
+BUNDLE_NAME=SOD User
+BUNDLE_DISPLAY_NAME=SOD User

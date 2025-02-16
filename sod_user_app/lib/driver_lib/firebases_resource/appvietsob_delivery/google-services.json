@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "600333955445",
+    "project_id": "appviet-di4l",
+    "storage_bucket": "appviet-di4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600333955445:android:173bc5c49003a80e22e33c",
+        "android_client_info": {
+          "package_name": "vietapp.driver.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600333955445-5uf7ngsq8id3tlamea5f5va8bk1kn4fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vietapp.driver.di4l.vn",
+            "certificate_hash": "a53d7a97a8627cdf4864a6439dc3bb7660b8606b"
+          }
+        },
+        {
+          "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjLRdvVhIJjuPnsqiDQGl3_T5I7YoovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600333955445-8c26udhnvpab96r7d5tjjp5219in7607.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "appvietsob.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600333955445:android:e4505741a273c7c622e33c",
+        "android_client_info": {
+          "package_name": "vietapp.user.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600333955445-v719dlssjn6bv7s7m3d73cs3jcl971n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vietapp.user.di4l.vn",
+            "certificate_hash": "6137c4ccfdc7f51d451a556ba4d1026f428ae817"
+          }
+        },
+        {
+          "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjLRdvVhIJjuPnsqiDQGl3_T5I7YoovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600333955445-8c26udhnvpab96r7d5tjjp5219in7607.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "appvietsob.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600333955445:android:d3630d4edb10474f22e33c",
+        "android_client_info": {
+          "package_name": "vietapp.vendor.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600333955445-id8qevpq79aablmslau6f8mj05k24hfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vietapp.vendor.di4l.vn",
+            "certificate_hash": "f2f3b339dfa1e27bd9092ad4d8aafddbcb674017"
+          }
+        },
+        {
+          "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjLRdvVhIJjuPnsqiDQGl3_T5I7YoovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600333955445-8c26udhnvpab96r7d5tjjp5219in7607.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "appvietsob.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600333955445:android:fbf0c1c125f8695022e33c",
+        "android_client_info": {
+          "package_name": "vietappdriver.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600333955445-v2jgl8jrmbf3ptq590jv2fbhijtvkjcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vietappdriver.di4l.vn",
+            "certificate_hash": "a53d7a97a8627cdf4864a6439dc3bb7660b8606b"
+          }
+        },
+        {
+          "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjLRdvVhIJjuPnsqiDQGl3_T5I7YoovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600333955445-8na1ardjkd6cfgo0q4em2v500209vlm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600333955445-8c26udhnvpab96r7d5tjjp5219in7607.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "appvietsob.user.di4l.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "376662777264",
+    "project_id": "suc365-di4l",
+    "storage_bucket": "suc365-di4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376662777264:android:4200f77f1f09a061fb8a75",
+        "android_client_info": {
+          "package_name": "suc365driver.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376662777264-kv282oo6u2linrj1fsa1ejavad8vcrdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "suc365driver.di4l.vn",
+            "certificate_hash": "0aee54ea3347c8ae5a731bfcbc24770d6e2bf690"
+          }
+        },
+        {
+          "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqUv4HTjipfQs0-ADW_bOnr957olFHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376662777264-97tbc3imro7q5n4hmvu3ritlo53bdhct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "suc365vendor.di4l.vn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376662777264:android:00c62a3c2a998922fb8a75",
+        "android_client_info": {
+          "package_name": "suc365user.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376662777264-jmshqoav4npifkapj13o6i20avd2ke35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "suc365user.di4l.vn",
+            "certificate_hash": "434458d3faa5d5b6f0f065b26aaf7c7a33508e13"
+          }
+        },
+        {
+          "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqUv4HTjipfQs0-ADW_bOnr957olFHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376662777264-97tbc3imro7q5n4hmvu3ritlo53bdhct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "suc365vendor.di4l.vn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376662777264:android:3ae4454caa689d86fb8a75",
+        "android_client_info": {
+          "package_name": "suc365vendor.di4l.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376662777264-h741g3ufftd89emnj11htb82tjhep0r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "suc365vendor.di4l.vn",
+            "certificate_hash": "771944dc4b3b0d205f2672d28a4423104740e45d"
+          }
+        },
+        {
+          "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqUv4HTjipfQs0-ADW_bOnr957olFHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376662777264-nf7giovkaknt2atn9103fjjsp7gsesjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376662777264-97tbc3imro7q5n4hmvu3ritlo53bdhct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "suc365vendor.di4l.vn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

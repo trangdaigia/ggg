@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "sod_user.di4l.vn"
+    name: "Sod user"
+  ios:
+    id: "sod_user.di4l.vn"
+    name: "Sod user"

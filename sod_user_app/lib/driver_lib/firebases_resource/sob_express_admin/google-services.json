@@ -1,0 +1,237 @@
+{
+  "project_info": {
+    "project_number": "673207305286",
+    "project_id": "sob-express-di4l",
+    "storage_bucket": "sob-express-di4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673207305286:android:123638d2daed7b49f43647",
+        "android_client_info": {
+          "package_name": "admin.sobexpress.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsiZQUhDkdLCdJeRE5ucWtxdz73Oz1fE"
+        },
+        {
+          "current_key": "AIzaSyDwiA_hdFFKs0r2m8oKmc3qmWhAaX4fv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673207305286-0kpi28uumdniu35rku61r4335fj77t4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sobvendor.express.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673207305286:android:44100ad991f4cde2f43647",
+        "android_client_info": {
+          "package_name": "sob.express.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673207305286-n6asadmkhj5kvandlhht0447l57oc2t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sob.express.vn",
+            "certificate_hash": "75066337acbe7587be8d8a8dcbf1eda46d661059"
+          }
+        },
+        {
+          "client_id": "673207305286-pcock88g2pmpv77lt0ea65hbjvucdh0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sob.express.vn",
+            "certificate_hash": "240e85f5ecfe45223847aabc97cc761c30e146eb"
+          }
+        },
+        {
+          "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsiZQUhDkdLCdJeRE5ucWtxdz73Oz1fE"
+        },
+        {
+          "current_key": "AIzaSyDwiA_hdFFKs0r2m8oKmc3qmWhAaX4fv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673207305286-0kpi28uumdniu35rku61r4335fj77t4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sobvendor.express.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673207305286:android:7c1f7c02b9f65aeef43647",
+        "android_client_info": {
+          "package_name": "sobadmin.express.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673207305286-7fsu26a8igicu86c0bpcd35iuu5u1ahr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sobadmin.express.vn",
+            "certificate_hash": "28d008d3eaea48b6d9134b01e38cfdd2f851f369"
+          }
+        },
+        {
+          "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsiZQUhDkdLCdJeRE5ucWtxdz73Oz1fE"
+        },
+        {
+          "current_key": "AIzaSyDwiA_hdFFKs0r2m8oKmc3qmWhAaX4fv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673207305286-0kpi28uumdniu35rku61r4335fj77t4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sobvendor.express.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673207305286:android:8d75a3f2edd67747f43647",
+        "android_client_info": {
+          "package_name": "sobvendor.express.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673207305286-n66orjmt18eucvf42nb7cah2rro2l5qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sobvendor.express.vn",
+            "certificate_hash": "28d008d3eaea48b6d9134b01e38cfdd2f851f369"
+          }
+        },
+        {
+          "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsiZQUhDkdLCdJeRE5ucWtxdz73Oz1fE"
+        },
+        {
+          "current_key": "AIzaSyDwiA_hdFFKs0r2m8oKmc3qmWhAaX4fv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673207305286-0kpi28uumdniu35rku61r4335fj77t4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sobvendor.express.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673207305286:android:fe49c8211642c121f43647",
+        "android_client_info": {
+          "package_name": "user.sobexpress.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsiZQUhDkdLCdJeRE5ucWtxdz73Oz1fE"
+        },
+        {
+          "current_key": "AIzaSyDwiA_hdFFKs0r2m8oKmc3qmWhAaX4fv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673207305286-l96g9lquqt5q892bgnhf9u5afu3h6v28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673207305286-0kpi28uumdniu35rku61r4335fj77t4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sobvendor.express.vn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

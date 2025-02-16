@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_fasthub_user.dart
+ASSET_PREFIX=fasthub_user
+BUNDLE_NAME=Fasthub User
+BUNDLE_DISPLAY_NAME=Fasthub User

@@ -1,0 +1,465 @@
+name: sod_user
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.1.184+267
+
+
+
+environment:
+  sdk: ">=2.17.0 <=3.5.2"
+
+dependencies:
+  image: ^4.3.0
+  gif: ^2.3.0
+  flutter_date_pickers: ^0.4.2
+  flutter_staggered_grid_view: ^0.7.0
+  adaptive_theme: ^3.6.0
+  animated_bottom_navigation_bar: ^1.2.0
+  awesome_notifications: ^0.10.0
+  banner_carousel: ^1.2.1
+  basic_utils: ^5.7.0
+  cached_network_image: ^3.3.1
+  carousel_slider: ^5.0.0
+  chewie: ^1.5.0
+  cloud_firestore: ^4.8.2
+  contained_tab_bar_view: ^0.8.0
+  cool_alert: ^2.0.1
+  country_picker: ^2.0.26
+  cupertino_icons: ^1.0.5
+  currency_formatter: ^2.0.1
+  custom_clippers: ^2.0.0
+  custom_faqs:
+    git:
+      url: https://github.com/ambrosethebuild/custom_faqs
+      ref: main
+  custom_sliding_segmented_control: ^1.8.3
+  contacts_service: ^0.6.3
+  dartx: ^1.1.0
+  dio: ^5.7.0
+  dio_http_cache_lts: ^0.4.0
+  dotted_border: ^2.0.0+2
+  dotted_line: ^3.1.0
+  double_back_to_close: ^2.0.0
+  dynamic_height_grid_view: ^0.0.3
+  equatable: ^2.0.3
+  expand_widget: ^3.1.1
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  firebase_crashlytics: ^4.1.3
+  firebase_messaging: ^15.1.3
+  vietmap_flutter_gl: ^3.0.0
+  firebase_dynamic_links: ^6.0.8
+  firestore_chat: ^0.1.2
+  fl_location: ^4.1.0+1
+  flag: ^7.0.0
+  flutter:
+    sdk: flutter
+  flutter_facebook_auth: ^7.1.1
+  flutter_form_builder: ^7.3.1
+  flutter_icons:
+    git:
+      url: https://github.com/imclerran/flutter-icons.git
+      ref: dart-3
+  flutter_image_compress: ^1.1.3
+  flutter_inappwebview: ^6.1.5
+  flutter_localizations:
+    sdk: flutter
+  flutter_overboard: ^3.1.1
+  flutter_polyline_points: ^1.0.0
+  flutter_rating_bar: ^4.0.1
+  flutter_signin_button: ^2.0.0
+  flutter_staggered_animations: ^1.0.0
+  flutter_svg: ^2.0.10+1
+  flutter_map: ^7.0.2
+  flutter_typeahead: ^4.3.7
+  fluttercontactpicker: ^4.7.0
+  fluttertoast: ^8.2.8
+  flutter_html: ^3.0.0-beta.2
+  geolocator: ^10.1.1
+  geocoding: ^3.0.0
+  glass: ^2.0.0+1
+  glass_kit: ^4.0.1
+  google_fonts: ^6.2.1
+  google_maps_flutter: ^2.4.1
+  google_maps_place_picker_mb: ^3.1.0
+  google_nav_bar: ^5.0.6
+  google_places_flutter: ^2.0.5
+  google_sign_in: ^6.2.1
+  group_radio_button: 1.2.0
+  http: ^1.0.0
+  image_picker: ^1.1.2
+  in_app_review: ^2.0.4
+  inspection: ^0.0.13
+  jiffy: ^5.0.0
+  keyboard_dismisser: ^3.0.0
+  line_icons: ^2.0.1
+  localize_and_translate: ^4.1.1
+  location: ^7.0.1
+  map_launcher: ^3.5.0
+  maps_toolkit: ^3.0.0
+  masonry_grid: ^1.0.0
+  measure_size: ^4.0.0
+  package_info_plus: ^4.0.2
+  pin_code_fields: ^8.0.1
+  pinch_zoom: ^2.0.0
+  pretty_dio_logger: ^1.2.0-beta-1
+  pull_to_refresh_flutter3: ^2.0.1
+  permission_handler: ^11.3.1
+  qr_code_scanner: ^1.0.1
+  qr_flutter: 4.0.0
+  rx_shared_preferences: ^3.0.0
+  rxdart: ^0.27.7
+  share: ^2.0.4
+  shared_preferences: ^2.0.15
+  sign_in_with_apple: ^6.1.3
+  singleton: ^0.0.3-nullsafety
+  slide_countdown: ^0.2.8
+  sliding_up_panel: ^2.0.0+1
+  smooth_page_indicator: ^1.0.0+2
+  spider: ^4.2.2
+  stacked: ^3.4.3
+  sticky_headers: ^0.3.0+2
+  supercharged: ^2.1.1
+  synchronized: ^3.0.1
+  timelines: ^0.1.0
+  upgrader: 7.1.0
+  url_launcher: ^6.1.4
+  velocity_x: 4.2.1
+  what3words: ^3.1.0
+  currency_text_input_formatter: ^2.2.5
+  flutter_time_picker_spinner: ^2.0.0
+  http_parser: ^4.0.2
+  html: ^0.15.4
+  flutter_google_places_hoc081098: ^1.2.0
+  intl: ^0.18.1
+  maps_launcher: ^2.2.0
+  geocoder2: ^1.4.0
+  vietmap_flutter_plugin: ^0.3.0
+  flutter_background_service: ^5.0.10
+  device_info_plus: ^9.1.2
+  restart_app: ^1.3.1
+  shorebird_code_push: ^1.1.6
+  fl_chart: ^0.69.2
+  flutter_sticky_header: ^0.7.0
+  hive: ^2.2.3
+  path_provider: ^2.1.5
+  georange: ^1.0.0
+  random_string: ^2.3.1
+  flutter_background: ^1.3.0+1
+  # assets_audio_player: ^3.0.6
+  app_to_foreground: ^0.0.3
+  flutter_overlay_window: 0.4.5
+  flutter_fgbg: ^0.6.0
+  file_picker: ^5.3.2
+  file_sizes: ^1.0.6
+  schedulers: ^0.3.1
+  geoflutterfire2: ^2.3.14
+  swipe_button_widget: ^0.0.2
+  swipebuttonflutter: ^1.0.0
+  rolling_switch: ^0.0.2
+  awesome_drawer_bar: ^1.1.0
+  package_info: ^2.0.2
+  hand_signature: ^3.0.1
+  circular_countdown_timer: ^0.2.0
+  just_audio: ^0.9.42
+
+dependency_overrides:
+  intl: ^0.18.1
+  http: ^0.13.0
+  win32: ^5.5.4
+  dio: ^5.7.0
+  firebase_auth: ^4.20.0
+  firebase_core: ^3.4.1
+  collection: ^1.17.0
+  google_api_headers: ^2.0.0
+  cloud_firestore: 5.4.0
+
+dev_dependencies:
+  flutter_application_id: ^2.0.0-dev
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.2.4
+  flutter_test:
+    sdk: flutter
+  translator: ^1.0.0
+  flutter_flavorizr: ^2.1.4
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/app_icon.png"
+  adaptive_icon_foreground: "assets/images/app_icon.png"
+  adaptive_icon_background: "#5e17eb"
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/icons/
+    - assets/images/app_icons/
+    - assets/images/app_icons/sod_user/
+    - assets/images/app_icons/sob_express/
+    - assets/images/app_icons/suc365_user/
+    - assets/images/app_icons/g47_user/
+    - assets/images/app_icons/appvietsob_user/
+    - assets/images/app_icons/fasthub_user/
+    - assets/images/app_icons/goingship/
+    - assets/images/app_icons/grabxanh/
+    - assets/images/app_icons/vasone/
+    - assets/audio/
+    - assets/json/
+    - assets/lang/
+    - assets/
+    - shorebird.yaml
+
+flavorizr:
+  flavors:
+    sod_user:
+      app:
+        name: "SOD User"
+      android:
+        applicationId: "sod_userv2.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/sod_user/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "SOD User"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+
+      ios:
+        bundleId: "soduser.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/sod_user/GoogleService-Info.plist"
+
+    sob_express:
+      app:
+        name: "SOB Express"
+      android:
+        applicationId: "user.sobexpress.vn"
+        firebase:
+          config: "./lib/firebases_resource/sob_express/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "SOB Express"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+
+      ios:
+        bundleId: "sob.express.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/sob_express/GoogleService-Info.plist"
+
+    suc365_user:
+      app:
+        name: "SUC365 User"
+      android:
+        applicationId: "suc365user.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/suc365_user/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "SUC365 User"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+
+      ios:
+        bundleId: "suc365user.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/suc365_user/GoogleService-Info.plist"
+
+    g47_user:
+      app:
+        name: "G47"
+      android:
+        # applicationId: "g47user.di4l.vn"
+        applicationId: "g47nguoidung.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/g47_user/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "G47"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+
+      ios:
+        bundleId: "g47user.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/g47_user/GoogleService-Info.plist"
+
+    appvietsob_user:
+      app:
+        name: "VietApp"
+      android:
+        # applicationId: "user.appviet.com.vn"
+        applicationId: "vietapp.userv2.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/appvietsob_user/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "VietApp"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+      ios:
+        bundleId: "appvietsob.user.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/appvietsob_user/GoogleService-Info.plist"
+
+    vasone:
+      app:
+        name: "Vasone"
+      android:
+        applicationId: "vasone.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/vasone/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "Vasone"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+      ios:
+        bundleId: "vasone.user.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/vasone/GoogleService-Info.plist"
+
+    fasthub_user:
+      app:
+        name: "Fasthub User"
+      android:
+        applicationId: "fasthub_user.di4l.vn"
+        firebase:
+          config: "./lib/firebases_resource/fasthub_user/google-services.json"
+        resValues:
+          app_name:
+            type: "string"
+            value: "Fasthub User"
+          facebook_app_id:
+            type: "string"
+            value: "227255426044574"
+          fb_login_protocol_scheme:
+            type: "string"
+            value: "fb227255426044574"
+          facebook_client_token:
+            type: "string"
+            value: "abc"
+      ios:
+        bundleId: "fasthub.user.di4l.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/fasthub_user/GoogleService-Info.plist"
+
+    goingship:
+      app:
+        name: "GoGoShip"
+      android:
+        # applicationId: "user.goingship.vn"
+        # applicationId: "userv2.goingship.vn"
+        # applicationId: "userv3.goingship.vn"
+        # applicationId: "user.gogoship.vn"
+        applicationId: "gogoship.user.vn"
+        firebase:
+          config: "./lib/firebases_resource/goingship/google-services.json"
+          # resValues:
+
+      ios:
+        bundleId: "user.goingship.vn.ios"
+        firebase:
+          config: "./lib/firebases_resource/goingship/GoogleService-Info.plist"      
+    
+    grabxanh:
+      app:
+        name: "Bestship"
+      android:
+        # applicationId: "goxanhuserv2.shipxanh247.com"
+        # applicationId: "goxanhuserv3.shipxanh247.com"
+        # applicationId: "goxanhxo.shipxanh247.com"
+        # applicationId: "user.ecoship247.com"
+        # applicationId: "ecoship.user.vn"
+        # applicationId: "bestship.user.vn"
+        applicationId: "nguoidung.ecoship247.com"
+        firebase:
+          config: "./lib/firebases_resource/shipxanh/google-services.json"
+          # resValues:
+
+      ios:
+        bundleId: "goxanh.shipxanh247.com.ios"
+        firebase:
+          config: "./lib/firebases_resource/shipxanh/GoogleService-Info.plist"
+
+    inux:
+      app:
+        name: "Inux"
+      android:
+        #applicationId: "user.inux.vn"
+        applicationId: "nguoidung.inux.vn"
+        icon: "assets/images/app_icons/inux/inux.png"
+        firebase:
+          config: "./lib/firebases_resource/inux/google-services.json"
+
+      ios:
+        bundleId: "user.inux.vn.ios"
+        icon: "assets/images/app_icons/inux/inux.png"
+        firebase:
+          config: "./lib/firebases_resource/inux/GoogleService-Info.plist"
